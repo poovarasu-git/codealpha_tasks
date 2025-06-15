@@ -1,0 +1,3 @@
+age,income,job,marital_status,credit_history,default
+35,50000,Engineer,Single,Good,0
+42,62000,Teacher,Married,Bad,1
